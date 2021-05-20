@@ -1,2 +1,2 @@
-20213101	Hong Jimin
+Hong Jimin:20213101
 Kookmin Univ. SW dept
